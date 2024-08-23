@@ -84,3 +84,5 @@ The R-squared value indicates the proportion of the variance in the median house
 The simple linear regression model successfully demonstrated the relationship between median income and median house values. The model's performance metrics, such as Mean Squared Error and R-squared, provide a quantitative measure of accuracy. The visualizations confirm that the model reasonably captures the trend in the data, though there may be room for improvement with more complex models or additional features.
 
 **Output**
+
+<img width="960" alt="Screenshot 2024-08-23 231951" src="https://github.com/user-attachments/assets/58cc3b93-2cf4-4ee8-a8d4-4e0e3a4fbf00">
